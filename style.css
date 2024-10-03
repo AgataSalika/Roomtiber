@@ -74,7 +74,7 @@
 
 /*=============== HEADER===============*/
 header {
-    background: url(/img/header.png) center/cover no-repeat;
+    background: url(./img/header.png) center/cover no-repeat;
     height: 100vh;
 }
 
@@ -386,7 +386,7 @@ select:focus>option:checked {
 
 .one {
     position: relative;
-    background: url(/img/cards1.png) center/cover no-repeat;
+    background: url(./img/cards1.png) center/cover no-repeat;
 }
 
 .cards__item_content {
@@ -441,11 +441,11 @@ p {
 }
 
 .two {
-    background: url(/img/cards2.png) center/cover no-repeat;
+    background: url(./img/cards2.png) center/cover no-repeat;
 }
 
 .three {
-    background: url(/img/cards3.png) center/cover no-repeat;
+    background: url(./img/cards3.png) center/cover no-repeat;
 }
 
 .cards__item_btn {
@@ -690,32 +690,32 @@ p {
 }
 
 .photo__one {
-    background: url("/img/photo_1.png") center/cover no-repeat;
+    background: url("./img/photo_1.png") center/cover no-repeat;
     border-radius: 6px;
 }
 
 .photo__two {
-    background: url("/img/photo_2.png") center/cover no-repeat;
+    background: url("./img/photo_2.png") center/cover no-repeat;
     border-radius: 6px;
 }
 
 .photo__three {
-    background: url("/img/photo_3.png") center/cover no-repeat;
+    background: url("./img/photo_3.png") center/cover no-repeat;
     border-radius: 6px;
 }
 
 .photo__four {
-    background: url("/img/photo_4.png") center/cover no-repeat;
+    background: url("./img/photo_4.png") center/cover no-repeat;
     border-radius: 6px;
 }
 
 .photo__five {
-    background: url("/img/photo_5.png") center/cover no-repeat;
+    background: url("./img/photo_5.png") center/cover no-repeat;
     border-radius: 6px;
 }
 
 .photo__six {
-    background: url("/img/photo_6.png") center/cover no-repeat;
+    background: url("./img/photo_6.png") center/cover no-repeat;
     border-radius: 6px;
 }
 
